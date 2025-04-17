@@ -48,18 +48,19 @@ Me chamo Aurélio Felippo Cruz Pessina Santos, tenho 17 anos e sou de São Paulo
   <tr>
     <td>
       <a href="https://github.com/FelippoCruz">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelippoCruz&show_icons=true&bg_color=000000&title_color=4682B4&text_color=4682B4&icon_color=4682B4&include_all_commits=true&locale=pt-br" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelippoCruz&show_icons=true&bg_color=000000&title_color=4682B4&text_color=4682B4&icon_color=4682B4&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub de FelippoCruz" />
       </a>
     </td>
     <td>
       <a href="https://github.com/FelippoCruz">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelippoCruz&bg_color=000000&title_color=4682B4&text_color=4682B4&icon_color=4682B4&layout=compact&custom_title=Tecnologias&langs_count=9" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelippoCruz&bg_color=000000&title_color=4682B4&text_color=4682B4&icon_color=4682B4&layout=compact&custom_title=Tecnologias&langs_count=1" alt="Linguagem mais utilizada por FelippoCruz" />
       </a>
     </td>
   </tr>
 </table>
+
 <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=FelippoCruz&bg_color=000000&color=4682B4&line=4682B4&point=4682B4&area=true&hide_border=false" 
     height="300" 
-    alt="Gráfico de atividades" 
+    alt="Gráfico de atividades de FelippoCruz" 
 />
