@@ -4,7 +4,7 @@ Me chamo Aurélio Felippo Cruz Pessina Santos, tenho 17 anos e sou de São Paulo
 
 ### :mailbox: Para me chamar:
 
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:aureliofelippo100@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:aureliofelippo100@gmail.com)
 
 ### 🤖 Linguagens e Tecnologias
 <!-- Ícone Python -->
