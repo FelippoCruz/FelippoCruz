@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Aurélio Felippo
 
-Me chamo Aurélio Felippo Cruz Pessina Santos, tenho 17 anos e sou de São Paulo. Concluí o ensino médio na Fecap, com o curso técnico em Jogos Digitais. Atualmente, estou cursando Ciencias da computação na Fecap.
+Me chamo Aurélio Felippo Cruz Pessina Santos, tenho 18 anos e sou de São Paulo. Concluí o ensino médio na Fecap, com o curso técnico em Jogos Digitais. Atualmente, estou cursando Ciência da Computação na Fecap.
 
 ### :mailbox: Para me chamar:
 
